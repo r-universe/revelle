@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "psych"]
+	path = psych
+	url = https://github.com/cran/psych
+	shallow = true
+	registered = true
+[submodule "psychTools"]
+	path = psychTools
+	url = https://github.com/cran/psychTools
+	shallow = true
+	registered = true
